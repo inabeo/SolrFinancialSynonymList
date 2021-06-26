@@ -5,3 +5,8 @@ US, USA, United States of America, America
 IE, IRL, Ireland, Eire
 UK, GB, United Kingdom
 CH, Switzerland
+
+USD, US Dollar
+EUR, Euro
+IEP, Irish Punt
+GBP, Great British Pound
