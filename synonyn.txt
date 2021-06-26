@@ -4,3 +4,4 @@ Basel, Basel2, BaselII, Basel3, Basel4
 US, USA, United States of America, America
 IE, IRL, Ireland, Eire
 UK, GB, United Kingdom
+CH, Switzerland
