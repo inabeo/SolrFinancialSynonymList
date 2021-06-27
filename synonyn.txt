@@ -11,3 +11,5 @@ EUR, Euro
 IEP, Irish Punt
 GBP, Great British Pound
 FR, FRA, France
+
+DE, DEU, Germany
