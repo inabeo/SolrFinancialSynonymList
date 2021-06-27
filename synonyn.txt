@@ -10,3 +10,4 @@ USD, US Dollar
 EUR, Euro
 IEP, Irish Punt
 GBP, Great British Pound
+FR, FRA, France
