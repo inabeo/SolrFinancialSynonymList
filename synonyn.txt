@@ -13,3 +13,6 @@ GBP, Great British Pound
 FR, FRA, France
 
 DE, DEU, Germany
+
+EU, European Union
+XM, Euro Zone
