@@ -1,0 +1,6 @@
+This shoudl be change
+
+Some thing todo
+
+1. Getting to grips with git
+2. Gitting to grips with get
