@@ -1,6 +1,9 @@
-This shoudl be change
+This should be changed
 
 Some thing todo
 
 1. Getting to grips with git
 2. Gitting to grips with get
+
+3. Don't do this...
+4. But remember to do this
