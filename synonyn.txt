@@ -15,4 +15,7 @@ FR, FRA, France
 DE, DEU, Germany
 
 EU, European Union
-XM, Euro Zone
+XM, EuroZone
+
+Frederick, Fred, Freddie
+Anthony, Tony, Anto, Ant
